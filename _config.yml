@@ -1,0 +1,27 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Munaf
+layout_spectrum: 0.5320680525619537
+typography_spectrum: 0.05270557547919452
+color:
+  brandStrength: 0.39693992771208286
+  lightness: 0.6061454662121832
+  saturation: 0.8158688521943986
+  rhythmicContrast: 0.06726970290765166
+  brandColors:
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
+content: []
+github: true
+url: 'http://grid.munaf.ideaspace.xyz'
+author:
+  name: Munaf Emam
+  email: munaf.emam@innoventures.me
